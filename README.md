@@ -6,8 +6,6 @@ If you find this work useful, please feel free to cite it and leave a ⭐.
 ```
 @techreport{soton488908,
           number = {10.5258/SOTON/PP0057},
-           month = {March},
-            type = {Project Report},
            title = {Responsible AI governance: A response to UN interim report on governing AI for humanity},
           author = {Sarah Kiden and Bernd Stahl and Beverley Townsend and Carsten Maple and Charles Vincent and Fraser Sampson and Geoff Gilbert and Helen Smith and Jayati Deshmukh and Jen Ross and Jennifer Williams and Jesus Martinez del Rincon and Justyna Lisinska and Karen O?Shea and M{\'a}rjory Da Costa Abreu and Nelly Bencomo and Oishi Deb and Peter Winter and Phoebe Li and Philip Torr and Pin Lean Lau and Raquel Iniesta and Gopal Ramchurn and Sebastian Stein and Vahid Yazdanpanah},
        publisher = {Public Policy, University of Southampton},
