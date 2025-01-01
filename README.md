@@ -1,6 +1,6 @@
 # Responsible AI governance: A response to UN interim report on governing AI for humanity [[Full Report](https://arxiv.org/abs/2412.12108)]
  
-If you find this work useful, please feel free to cite it and leave a ⭐.
+If you find this work useful, please feel free to cite it.
 
 ##### Recommended Citation Format in BibTex:
 ```
